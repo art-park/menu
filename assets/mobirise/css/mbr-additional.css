@@ -422,18 +422,18 @@ h6,
 }
 #menu-h .navbar-caption {
   color: #ffffff;
-  font-size: 10px;
+  font-size: 14px;
 }
 #menu-h .navbar-toggler {
-  color: #ffffff;
+  color: #f7da64;
 }
 #menu-h .close-icon::before,
 #menu-h .close-icon::after {
-  background-color: #ffffff;
+  background-color: #f7da64;
 }
 #menu-h .link,
 #menu-h .dropdown-item {
-  color: #ffffff;
+  color: #f7da64;
 }
 #menu-h .link {
   font-size: 0.8rem;
@@ -465,7 +465,7 @@ h6,
   background: #000000;
 }
 #menu-h .bg-color.transparent .link {
-  color: #ffffff;
+  color: #f7da64;
   transition: none;
 }
 #menu-h .bg-color.transparent.opened .link {
@@ -536,18 +536,18 @@ h6,
 }
 #menu-h .navbar-caption {
   color: #ffffff;
-  font-size: 10px;
+  font-size: 14px;
 }
 #menu-h .navbar-toggler {
-  color: #ffffff;
+  color: #f7da64;
 }
 #menu-h .close-icon::before,
 #menu-h .close-icon::after {
-  background-color: #ffffff;
+  background-color: #f7da64;
 }
 #menu-h .link,
 #menu-h .dropdown-item {
-  color: #ffffff;
+  color: #f7da64;
 }
 #menu-h .link {
   font-size: 0.8rem;
@@ -579,7 +579,7 @@ h6,
   background: #000000;
 }
 #menu-h .bg-color.transparent .link {
-  color: #ffffff;
+  color: #f7da64;
   transition: none;
 }
 #menu-h .bg-color.transparent.opened .link {
