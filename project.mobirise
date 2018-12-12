@@ -511,8 +511,8 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "OBRAZY RĘCZNIE MALOWANE",
+        "meta_descr": "galeria art-park (menu)",
+        "title": "menu ",
         "order": 1
       },
       "components": [
