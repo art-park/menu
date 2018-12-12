@@ -479,57 +479,16 @@ h6,
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header5-0 .mbr-section-title {
-  color: #ffffff;
-}
-#header5-0 .mbr-section-lead {
-  color: #ffffff;
-  text-align: center;
-  font-size: 24px;
-}
-#header5-0 .btn {
-  font-size: 12px;
-}
-#header5-0 .mbr-section-title P {
-  color: #f7da64;
-  text-align: center;
-  font-size: 60px;
-}
-#features3-5 P {
-  color: #f7da64;
-  text-align: center;
-}
-#features3-5 H5 {
-  color: #ffffff;
-}
-#features3-5 H4 {
-  color: #f7da64;
-}
-#content5-c .mbr-section-title,
-#content5-c p {
+#msg-box8-l .mbr-section-title,
+#msg-box8-l p {
   color: #fff;
 }
-#content5-c .mbr-section-title {
-  color: #f7da64;
-  font-size: 36px;
-}
-#content5-c DIV {
+#msg-box8-l .lead {
   color: #efefef;
 }
-#social-buttons3-a .mbr-section-title,
-#social-buttons3-a .btn-social {
-  color: #fff;
-}
-#social-buttons3-a .mbr-section-title {
-  font-size: 16px;
+#msg-box8-l .mbr-section-title {
   color: #f7da64;
-}
-#contacts3-7 .btn {
-  font-size: 16px;
-}
-#footer1-d P {
-  font-size: 15px;
-  color: #f7da64;
+  font-size: 36px;
 }
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -593,14 +552,55 @@ h6,
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-l .mbr-section-title,
-#msg-box8-l p {
+#header5-0 .mbr-section-title {
+  color: #ffffff;
+}
+#header5-0 .mbr-section-lead {
+  color: #ffffff;
+  text-align: center;
+  font-size: 24px;
+}
+#header5-0 .btn {
+  font-size: 12px;
+}
+#header5-0 .mbr-section-title P {
+  color: #f7da64;
+  text-align: center;
+  font-size: 60px;
+}
+#features3-5 P {
+  color: #f7da64;
+  text-align: center;
+}
+#features3-5 H5 {
+  color: #ffffff;
+}
+#features3-5 H4 {
+  color: #f7da64;
+}
+#content5-c .mbr-section-title,
+#content5-c p {
   color: #fff;
 }
-#msg-box8-l .lead {
-  color: #efefef;
-}
-#msg-box8-l .mbr-section-title {
+#content5-c .mbr-section-title {
   color: #f7da64;
   font-size: 36px;
+}
+#content5-c DIV {
+  color: #efefef;
+}
+#social-buttons3-a .mbr-section-title,
+#social-buttons3-a .btn-social {
+  color: #fff;
+}
+#social-buttons3-a .mbr-section-title {
+  font-size: 16px;
+  color: #f7da64;
+}
+#contacts3-7 .btn {
+  font-size: 16px;
+}
+#footer1-d P {
+  font-size: 15px;
+  color: #f7da64;
 }
