@@ -1,0 +1,640 @@
+{
+  "settings": {
+    "name": "Site-12-09_1226-clone-clone",
+    "currentPage": "page1.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#2b2d33",
+        "#2d2e31"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.8",
+    "siteFonts": [],
+    "uniqCompNum": 22,
+    "versionPublish": "4.8.8",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "art-park galeria",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#f7da64"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f7da64"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f7da64"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f7da64",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#f7da64",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENU</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">O GALERII</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KONTAKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            ".btn": {
+              "font-size": "12px"
+            },
+            ".mbr-section-title P": {
+              "color": "#f7da64",
+              "text-align": "center",
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-10-1280x800.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
+          },
+          "title": "<p><a href=\"https://galeria16mb.000webhostapp.com/\"></a></p><br><p>art-park galeria</p>",
+          "text": "<br>WSZYSTKO O SZTUCE - GALERIA RĘKODZIEŁA ART - OBRAZY RĘCZNIE MALOWANE - WIADOMOŚCI O SZTUCE - FOTOGRAFIA - RZEŹBA - NAUKA TWORZENIA ART - ARTYŚCI - MUZEA W POLSCE I NA ŚWIECIE - ITP<br><br>-----ZAPRASZAMY----",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features3-5\" data-toolbar=\"-mbrBtnMove\">MENU</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#content5-c\" data-toolbar=\"-mbrBtnMove\">O GALERII</a>   ",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-6-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "GALERIA SZTUKI&nbsp;",
+          "subtitle1": "PRACE ARTYSTÓW PROFESJONALISTÓW<br>JAK RÓWNIEŻ ARTYSTÓW AMATORÓW",
+          "caption1": "OBRAZY RĘCZNIE MALOWANE - RZEŻBA - GRARIKA - RYSUNEK - FOTOGRAFIA - ITP",
+          "title2": "AKADEMIA SZTUKI",
+          "subtitle2": "DUŻO CIEKAWYCH PORAD I CIEKAWOSTEK<br>DLA POCZĄTKUJĄCYCH ARTYSTÓW ...",
+          "caption2": "NAUKA DLA POCZĄTKUJĄCYCH - MALARZY - RZEŻBIARZY - FOTOGRAFÓW - GARAFIKÓW - ITD",
+          "title3": "WIADOMOŚCI O SZTUCE",
+          "subtitle3": "CZYM JEST SZTUKA - KIM JEST ARTYSTA<br>- HISTORIA SZTUKI - ITD<br>",
+          "caption3": "PODSTAWOWE WIADOMOŚCI - SZTUKA WSPÓŁCZESNA - TECHNIKI - HISTORIA SZTUKI - ITP",
+          "title4": "MUZEA SZTUKI",
+          "subtitle4": "MUZEA I WYSTAWY W POLSCE&nbsp;<br>I NA ŚWIECIE",
+          "caption4": "WYSTAWY - MUZEA NARODOWE - ZNANI ARTYŚCI - ZNANE DZIEŁA<br>SZTUKI - ITP",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">W PRZEBUDOWIE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5",
+          "_styles": {
+            "P": {
+              "color": "#f7da64",
+              "text-align": "center"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#f7da64"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-size": "36px"
+            },
+            "DIV": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo2-2-1280x800.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<br>O GALERII",
+          "caption": "<p>Celem galerii internetowej ART-PARK jest przedstawienie wszystkiego lub prawie wszystkigo co jest związane ze sztuką w różnych okresach jej powstawania. Znajdziesz tu trochę historii sztuki, jak również galerie obrazów znanych i nie znanych artystów. Nie będzie tu podziału na profesjonalistów i amatorów - wszyscy co tworzą dzieła według własnej fantazji są artystami - SZTUKA JEST BEZ GARANIC. Dla wszystkich takich twórców jest tu galeria gdzie będą mogli umieścić powstałe prace i np. linki do swoich stron artystycznych.&nbsp;<span style=\"font-size: 1.07rem;\">W przedstawianej tu historii sztuki prezentuję znanch artystów i ich wspaniałe dzieła - warto zobaczyć ! ...te najdroższe dzieła sztuki nie zawsze są tymi najpopularniejszymi które więcej czy mniej znamy, a twórcy tych prac mają zazwyczaj ciekawą historię. Przedstawiam tu również muzea,wystawy w polsce i na świecie gdzie można oglądać dzieła takich artystów. Co też jest bardzo ważne na tej stronie - dla tych którzy chcą rozpocząć przygodę ze sztuką i czują potrzebę tworzenia napewno przydadzą się pewne porady i troszkę ciekawostek związanych z różnymi technikami w sztuce - malowanie obrazów - fotografia - grafika - rysunek - rzeźba itp. ZAPRASZAM NA STRONE AKADEMII SZTUKI j/w &nbsp; &nbsp; &nbsp;CDN</span></p><p>www.art-park.com.pl&nbsp;</p><p><br></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "16px",
+              "color": "#f7da64"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo2-2-1280x800.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "text": "PODZIEL SIĘ TĄ STRONĄ&nbsp;",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-a"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo3-144x113.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">wyślij</a>",
+          "title1": "Categories",
+          "text1": "GALERIA SZTUKI DLA WSZYSTKICH",
+          "text2": "+48 515951155",
+          "text3": "POLAND",
+          "text4": "artpark.galeria@gmail.com",
+          "text5": "<li>GALERIA SZTUKI</li><li>AKADEMIA SZTUKI</li><li>WIADOMOŚCI O SZTUCE</li><li>MUZEA I WYSTAWY</li>",
+          "text6": "<strong>Contacts</strong><br>Email: artpark.galeria@gmail.com<br>Phone: +48 515951155<br>Fax:&nbsp;<br><br><br><strong>Address</strong><br>POLAND",
+          "form": {
+            "title": "MESSAGE",
+            "action": "artpark.galeria@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "wiadomość - napisz"
+              }
+            }
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-7",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;art-park.com.pl &nbsp; &nbsp;2019 &nbsp; adm. W.Górzny",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-d",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "color": "#f7da64"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "OBRAZY RĘCZNIE MALOWANE",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#f7da64"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f7da64"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f7da64"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f7da64",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#f7da64",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MENU</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">O GALERII</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KONTAKT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-10-1280x800.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-l"
+        }
+      ]
+    }
+  }
+}
